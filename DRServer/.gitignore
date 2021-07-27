@@ -1,0 +1,8 @@
+/target/
+/bin/
+/.idea/
+/src/main/resources/hibernate.properties
+.DS_Store
+/data/
+/log/
+./TODO
